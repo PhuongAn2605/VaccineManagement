@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 25 21:26:15 ICT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0179-a3eb-44f7-00000b03a8b0 
+on database directory C:\Users\BENH VIEN CONG NGHE\git\project-ss207-g5\VaccineManagement\data\domainds  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/BENH%20VIEN%20CONG%20NGHE/git/project-ss207-g5/VaccineManagement/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\BENH VIEN CONG NGHE\git\project-ss207-g5\VaccineManagement
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
